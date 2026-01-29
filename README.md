@@ -1,16 +1,33 @@
-# React + Vite
+🛰️ Pathfinding Lab: Neobrutalist Edition
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-impact, educational visualizer for graph traversal and pathfinding algorithms, featuring a unique Noir & Orange Cartoon aesthetic.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live tool here!
 
-## React Compiler
+🛠️ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hybrid Visualization: Uses a Binary Tree for BFS/DFS and a weighted Interconnected Graph for Dijkstra/A*.
 
-## Expanding the ESLint configuration
+Neobrutalist UI: High-contrast, bold "Cartoon" style with Light/Dark mode support.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Educational Deep-Dive: Scroll down to see detailed complexity analysis, concepts, and real-world applications.
+
+Step-by-Step Logic: Watch the Queue and Stack move in real-time alongside the pseudo-code.
+
+📦 Local Setup
+
+npm install
+
+npm run dev
+
+📜 Algorithms Covered
+
+BFS: The Ripple Effect (FIFO Queue)
+
+DFS: The Deep Dive (LIFO Stack)
+
+Dijkstra: The Cost Calculator (Priority Queue)
+
+A*: The Informed Scout (Heuristic Search)
