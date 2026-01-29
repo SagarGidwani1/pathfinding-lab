@@ -4,7 +4,7 @@ A high-impact, educational visualizer for graph traversal and pathfinding algori
 
 🚀 Live Demo
 
-Check out the live tool here!
+Check out the live - pathfinding-lab-psi.vercel.app
 
 🛠️ Features
 
