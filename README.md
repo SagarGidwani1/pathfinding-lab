@@ -2,10 +2,6 @@
 
 A high-impact, educational visualizer for graph traversal and pathfinding algorithms, featuring a unique Noir & Orange Cartoon aesthetic.
 
-🚀 Live Demo
-
-Check out the live - pathfinding-lab-psi.vercel.app
-
 🛠️ Features
 
 Hybrid Visualization: Uses a Binary Tree for BFS/DFS and a weighted Interconnected Graph for Dijkstra/A*.
